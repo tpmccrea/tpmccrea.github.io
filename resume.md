@@ -72,6 +72,6 @@ Teaching assistant and graduate student in the Geography Department. Responsible
 
 *Zoning and Permitting Specialist* (07/2017 - 01/2018)
 
-> * Conducted multi-state comprehensive zoning review to assess the 5G permtting landscape at the time (2017)
+> * Conducted a multi-state comprehensive zoning review to assess the 5G permtting landscape at the time (2017)
 > * Coordinated with municipal and country governements to determine zoning and permitting requirements for telecommunications projects.
 > * Completed applications and tracked construction process for telecom infrastructure projects across the US.
