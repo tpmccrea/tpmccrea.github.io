@@ -1,2 +1,4 @@
 # tpmccrea.github.io
-GEOG 595  - PE 1
+GEOG 595 - Winter 202
+
+Practical Exercise 1
