@@ -41,7 +41,7 @@ Current Geography MA student at the University of Washington, interested in huma
 
 ## Current Role
 
-##### University of Washington
+#### University of Washington
 
 *Teaching Assistant* (09/19 - Present)
 
@@ -54,7 +54,7 @@ Teaching assistant and graduate student in the Geography Department. Responsible
 
 ## Past Experience
 
-##### Expedia
+#### Expedia
 
 *Geographer* (01/19 - 08/2019)
 
@@ -62,7 +62,7 @@ Teaching assistant and graduate student in the Geography Department. Responsible
 > * Geolocated travel properties in un-addressed and undermapped areas.
 > * Created and maintained geospatial databases.
 
-##### SAC Wireless
+#### SAC Wireless
 
 *5G Site Specialist* (01/2018 - 11/2018)
 
