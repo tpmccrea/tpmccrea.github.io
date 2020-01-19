@@ -2,7 +2,6 @@
 
 #### Seattle, WA
 
----
 
 [Contact Me](tmccrea@uw.edu "tmccrea@uw.edu")
 
