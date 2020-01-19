@@ -1,6 +1,6 @@
-#**Tyler McCrea**
+#Tyler McCrea
 
-####*Seattle, WA*
+####Seattle, WA
 
 ---
 
