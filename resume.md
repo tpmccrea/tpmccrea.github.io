@@ -45,7 +45,7 @@ Current Geography MA student at the University of Washington, interested in huma
 
 *Teaching Assistant* (09/19 - Present)
 
-Teaching assistant and graduate student in the Geography Department. Responsible for holding lab section several times a week, preparing and grading lab materials, as well as student mentorship and support.
+Teaching assistant and graduate student in the Geography Department. Responsible for holding lab section several times a week, preparing and grading lab materials, as well as student mentorship and support. Additional Sentence. 
 
 > **TA for the Following Courses:**
 > * _Fall 2019:_ GEOG 360 - GIS and Mapping
